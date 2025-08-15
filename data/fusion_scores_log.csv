@@ -1,0 +1,3 @@
+user,hold_time,flight_time,anomaly_score_typing,timestamp,app,duration_minutes,hour_of_day,anomaly_score_app,accel_x,accel_y,accel_z,anomaly_score_sensor,fusion_score
+user1,120.5,80.3,0.1430198482385462,2025-08-15 10:37:31.786363,WhatsApp,15.0,9,-0.0326797027256745,,,,0.0,0.061706013301570745
+user1,115.2,82.1,0.1430198482385462,2025-08-15 10:37:32.786363,Chrome,10.5,9,-0.0326797027256745,,,,0.0,0.061706013301570745
